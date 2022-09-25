@@ -13,7 +13,7 @@ A web application for public sector to report activities, inform about events, e
 
 ## Enviroment
 
-Prjects is temporarily deployed to [Heroku](https://www.heroku.com/): https://daspfleova.herokuapp.com/
+Prjects is temporarily deployed to [Heroku](https://www.heroku.com/): https://daspfleova.herokuapp.com/ (outdated)
 
 ## Images
 
